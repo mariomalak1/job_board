@@ -1,0 +1,6 @@
+syntax error : when you write the syntax of a specific language incorrect.
+
+
+run-time error : it's error that happen while the program run; and it sometimes because devolper not handel the input of user and as : dividing by zero, calling invalid functions.
+
+logical error : it's an error happen after run the program and it's happen exactly in the result of the program , as the error was in logic of algorithm. 
